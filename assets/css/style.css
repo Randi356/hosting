@@ -49,6 +49,9 @@ body .bg-success {
 	font-weight: 500 !important;
 }
 
+.text.right {
+	align-items: right;
+}
 
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
